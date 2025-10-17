@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="864" height="418" alt="File2MD_Banner_001" src="https://github.com/user-attachments/assets/ddd5465a-8b30-4c0c-b09f-564cb24153e4" />
+
 # File2MD
 
 ### A Modern Desktop App for AI-Powered Text-to-Markdown Conversion
