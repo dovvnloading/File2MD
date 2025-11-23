@@ -1,6 +1,5 @@
 <div align="center">
 
-<img width="753" height="450" alt="File2MD_Banner_001" src="https://github.com/user-attachments/assets/f6a909e8-68ff-4a57-a9a4-8047e98e8f32" />
 
 
 # File2MD
@@ -128,5 +127,5 @@ This project is licensed under the **Apache License 2.0**. See the [LICENSE](htt
 ---
 
 <div align="center">
-Made with ❤️ by dovvnloading
+
 </div>
